@@ -5,4 +5,4 @@ let firstName = "nayyab";
 // console.log(firstName.length);
 
 // console.log(firstName.toUpperCase());
-console.log(firstName.toLowerCase());
+console.log(firstName.toUpperCase());
