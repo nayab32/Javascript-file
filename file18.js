@@ -1,4 +1,4 @@
-let tempIndegree = -10;
+let tempIndegree = 10;
 if(tempIndegree < 0){
     console.log("extremely cold");
 }
