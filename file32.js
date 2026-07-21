@@ -1,3 +1,5 @@
+
+// for of in array
 const fruits =["mango","apple","grapes"]
 const fruits2 =[];
 for(let index in fruits){
