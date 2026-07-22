@@ -1,3 +1,5 @@
+// object inside array
+
 const users = [
     {userId: 1 , firstName: 'iqra', gender: 'female'},
     {userId: 2 , firstName: 'ali', gender: 'male'},
