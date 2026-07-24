@@ -1,4 +1,4 @@
-// console.log(document.head);
+console.log(document.head);
 console.dir(document.body.childNodes[1]);
-let headings = document.getElementsByClassName("heading");
+let headings = document.getElementsByClassName("class");
 console.dir(headings);
