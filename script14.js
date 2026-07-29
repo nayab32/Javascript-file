@@ -7,7 +7,6 @@ btn1.onclick = (evt) => {
  console.log(evt.clientX, evt.clientY);
 
 
-
 }
 // let div = document.querySelector("div"); // handling div event
 
